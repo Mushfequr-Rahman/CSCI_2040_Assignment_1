@@ -12,7 +12,7 @@ import java.text.DecimalFormat;
 // Created By Mohammmad Mushfequr Rahman Student ID:100659376
 //Created By Terry Darmawan Hosea Student ID: 100670290
 
-public class question2 extends Application {
+public class Assignment_1_Q2 extends Application {
 
     public static void main(String[] args) {
         launch(args);

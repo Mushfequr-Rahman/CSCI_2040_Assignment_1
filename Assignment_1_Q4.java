@@ -14,7 +14,7 @@ import java.util.*;
 // Created By Mohammmad Mushfequr Rahman Student ID:100659376
 //Created By Terry Darmawan Hosea Student ID: 100670290
 
-public class question4 extends Application {
+public class Assignment_1_Q4 extends Application {
     protected String cap_letter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     protected int counter[] = new int[26];
     protected String allword = "";

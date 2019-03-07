@@ -25,8 +25,10 @@ public class Assignment_1_Q1 extends Application {
 
         for (int i= 0 ;i <3;i++) {
             int image = (int) (Math.random() * 53) + 1;
-            System.out.println("Image :" + i +" source " + image );
-            ImageView card = new ImageView(String.format(image + ".png"));
+            String s = image + ".png";
+            ImageView card = new ImageView("file:image/card/"+s);
+
+            pane.getChildren().add(card);
 
 
             pane.add(card, i, 0);
