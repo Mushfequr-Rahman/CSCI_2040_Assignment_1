@@ -15,7 +15,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 // Created By Mohammmad Mushfequr Rahman Student ID:100659376
-//Created By Terry Dharamawan Hosea Student ID
+//Created By Terry Darmawan Hosea Student ID: 100670290
 
 public class Assignment_1_Q3 extends Application {
 
